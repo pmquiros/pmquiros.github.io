@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Navigation links
+header_pages:
+  - index.markdown
+  - about.markdown
+  - Projects/projects.md  # This is your new Projects page inside the Projects folder
